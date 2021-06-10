@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome
 
-I am Gurkirt Singh, I am currently Post-Doc at [CVL-Lab ETHZ](https://vision.ee.ethz.ch/), I have a passion for teaching machine to inperprat videos. I am interested in Causal Computer Vision. I like to share as much of code as possbile from my research. Feel free to reach out in case you look for contributors in projects.
+I am Gurkirt Singh, I am currently Post-Doc at [CVL-Lab ETHZ](https://vision.ee.ethz.ch/), I have a passion for teaching machine to inperprat videos. I am interested in Computer Vision. I like to share as much of code as possbile from my research. Feel free to reach out in case you look for contributors in projects.
 
 <a href="https://github.com/IemProg/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gurkirt&show_icons=true&include_all_commits=true&theme=radical" alt="Gurkirt's github stats" />
+  <img align="center" src="https://github-readme-stats.gurkirt.vercel.app/api?username=gurkirt&show_icons=true&include_all_commits=true&theme=radical" alt="Gurkirt's github stats" />
 </a>
 
 
