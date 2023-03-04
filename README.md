@@ -2,9 +2,11 @@
 
 I am Gurkirt Singh, I am currently Post-Doc at [CVL-Lab ETHZ](https://vision.ee.ethz.ch/), I have a passion for teaching machine to understand visual content. I am interested in Computer Vision. I like to share as much of code as possbile from my research. Feel free to reach out in case you look for contributors in projects.
 
-<a href="https://github.com/IemProg/github-readme-stats">
+<!-- <a href="https://github.com/IemProg/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gurkirt&show_icons=true&include_all_commits=true&theme=radical" alt="Gurkirt's github stats" />
-</a>
+</a> -->
+
+![Gurkirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkirt&count_private=true)
 
 
 <!--
